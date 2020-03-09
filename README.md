@@ -1,2 +1,2 @@
-# CorePHP-Payment-Connection-Currency-Converter
+# CorePHP-Payment-Connection-CurrencyConverter
 Payment API Connection and Currency Converter
